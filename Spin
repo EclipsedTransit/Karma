@@ -1,4 +1,3 @@
-#include <Servo.h>
 // Define motor pins
 const int motorPWM = 9;  // PWM pin for motor speed control
 const int motorDir = 8;  // Direction pin
